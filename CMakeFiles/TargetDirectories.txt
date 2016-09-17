@@ -1,0 +1,3 @@
+D:/git/libsat/CMakeFiles/sat.dir
+D:/git/libsat/CMakeFiles/edit_cache.dir
+D:/git/libsat/CMakeFiles/rebuild_cache.dir
